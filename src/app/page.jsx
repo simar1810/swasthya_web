@@ -407,13 +407,13 @@ export default async function FreeTrialClient() {
                 className="opacity-60 flex items-center gap-3"
               >
                 <IoMailOpen></IoMailOpen>
-                {"xyz@gmail.com"}
+                {"jeymestri@gmail.com"}
               </Link>
               <Link
                 href="tel:1231231233"
                 className="opacity-60 flex items-center gap-3"
               >
-                <FaPhoneAlt /> +91 9090909090
+                <FaPhoneAlt /> +91 8329938695
               </Link>
 
               {/* <div className="max-w-[60ch] opacity-60 flex items-center gap-3"><FaLocationDot />10540/1 Street no.9 Pratap Nagar near Bhagwan Chowk Ludhiana-141003</div> */}
